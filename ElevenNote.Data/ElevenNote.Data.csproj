@@ -87,6 +87,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Category.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Migrations\202104072029514_FirstMigration.cs" />
     <Compile Include="Migrations\202104072029514_FirstMigration.designer.cs">
