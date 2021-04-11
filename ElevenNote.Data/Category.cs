@@ -20,5 +20,7 @@ namespace ElevenNote.Data
         public string CategoryName { get; set; }
 
         public string CategoryDescription { get; set; }
+
+
     }
 }

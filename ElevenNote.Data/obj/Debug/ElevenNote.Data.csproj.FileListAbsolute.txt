@@ -35,3 +35,4 @@ D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.FirstMigration.resources
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.CategoriesAdded.resources

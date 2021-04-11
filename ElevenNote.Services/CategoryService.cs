@@ -16,6 +16,7 @@ namespace ElevenNote.Services
         {
             _userId = userId;
         }
+        // Create
 
         public bool CreateCategory(CategoryCreate model)
         {
@@ -32,6 +33,8 @@ namespace ElevenNote.Services
                 return ctx.SaveChanges() == 1;
             }
         }
+
+        // Read
 
         public IEnumerable<CategoryListItem> GetCategory()
         {
@@ -55,5 +58,60 @@ namespace ElevenNote.Services
 
             }
         }
+
+        public CategoryDetail GetCategoryById(int id)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                    .Categories
+                    .Single(e => e.CategoryId == id && e.OwnerId == _userId);
+
+                return
+                    new CategoryDetail
+                    {
+                        CategoryId = entity.CategoryId,
+                        CategoryName = entity.CategoryName,
+                        CategoryDescription = entity.CategoryDescription
+                    };
+            }
+        }
+
+        // Update
+
+        public bool UpdateCategory(CategoryEdit model)
+        {
+            using (var ctx = new ApplicationDbContext()) 
+            {
+                var entity =
+                    ctx
+                    .Categories
+                    .Single(e => e.CategoryId == model.CategoryId && e.OwnerId == _userId);
+
+                entity.CategoryName = model.CategoryName;
+                entity.CategoryDescription = model.CategoryDescription;
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
+
+        // Delete
+
+        public bool DeleteCategory(int categoryId)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                    .Categories
+                    .Single(e => e.CategoryId == categoryId && e.OwnerId == _userId);
+
+                ctx.Categories.Remove(entity);
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
+
     }
 }
