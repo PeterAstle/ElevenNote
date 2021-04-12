@@ -20,3 +20,17 @@ D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\De
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Owin.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Cors.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.xml
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.xml
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.xml

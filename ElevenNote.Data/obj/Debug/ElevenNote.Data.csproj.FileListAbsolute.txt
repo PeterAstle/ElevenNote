@@ -36,3 +36,8 @@ D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.FirstMigration.resources
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
 D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.CategoriesAdded.resources
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Cors.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.dll
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.xml
+D:\Peter\ElevenFiftyProjects\DoNetProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.xml
