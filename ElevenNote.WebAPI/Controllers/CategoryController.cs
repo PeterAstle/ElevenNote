@@ -10,6 +10,7 @@ using System.Web.Http;
 
 namespace ElevenNote.WebAPI.Controllers
 {
+        [Authorize]
     public class CategoryController : ApiController
     {
         private CategoryService CreateCategoryService()
